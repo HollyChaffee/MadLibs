@@ -18,10 +18,6 @@ Date: 3/15/2022
       String name2 = "Steve";
       int number = 3033;
       String place1 = "Iceland";
-
-
-
-
       
       
       //The template for the story
